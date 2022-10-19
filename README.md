@@ -15,6 +15,6 @@
 **Answer:** https://www.youtube.com/watch?v=LnBnm_tZlyU
 
 ##
-**Question:** how to get channel id ?*
+**Question:** how to get channel id ?
 
 **Answer:** https://www.youtube.com/watch?v=LnBnm_tZlyU
