@@ -17,4 +17,4 @@
 ##
 **Question:** how to get channel id ?
 
-**Answer:** https://www.youtube.com/watch?v=LnBnm_tZlyU
+**Answer:** https://www.youtube.com/watch?v=xgjGuA-Xp4g
