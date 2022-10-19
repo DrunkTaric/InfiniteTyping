@@ -4,7 +4,7 @@
 
 # install
 1. you have to install python
-2. put your token and your channel id inside **.env** file
+2. put your token and your channel id inside **.env** file + remove .example
 3. open terminal inside project's directory
 4. type "py main.py"
 5. enjoy <3
